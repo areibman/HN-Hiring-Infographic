@@ -1,3 +1,11 @@
+Recap of HN's Most In-Demand Skills of 2019.
+
+Data gathered from 8885 posts in Ask HN: Who is Hiring? threads on Hacker News (news.ycombinator.com).
+
+Full code and data can be found at: https://github.com/areibman/HN-Hiring-Infographic/
+
+Made with Python (pandas, matplotlib) and Figma
+
 Code used to gather and generate the data for the HN 2019 Who Is Hiring infographic.
 
 ### Data:
